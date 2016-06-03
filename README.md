@@ -1,3 +1,3 @@
 # Hola-Leanchy
 
-Uso y testeo del siti.o web Github.com
+Uso y testeo del sitio web Github.com
